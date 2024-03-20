@@ -144,7 +144,7 @@ Last but not least, we will set up the Github Pages website. On the repository m
 <br />
 That's it! The website is now ready!
 
-https://ramikrispin.github.io/shinylive-r/
+https://rogerjdeangelis.github.io
 
 ## Resources
 - Joe Cheng's **Running Shiny without a server** [presentation](https://jcheng5.github.io/posit-conf-2023-shinylive/#/title-slide) at the Posit Conf 2023
