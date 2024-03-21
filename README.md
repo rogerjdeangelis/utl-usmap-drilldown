@@ -13,11 +13,6 @@
     my github repo
     https://github.com/rogerjdeangelis/rogerjdeangelis.github.io
 
-    Problem
-    Create web site https://rogerjdeangelis/github.io and serve up 'html, javascript, jekyll and css'.
-    There are alot of javascript libraries.
-
-
     This is a port of
        https://github.com/RamiKrispin/shinylive-r
 
