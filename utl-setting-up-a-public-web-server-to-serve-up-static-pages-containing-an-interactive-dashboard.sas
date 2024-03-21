@@ -11,11 +11,6 @@ Click on link below to open RamiKrispin server
 github
 https://github.com/rogerjdeangelis/rogerjdeangelis.github.io
 
-
-Create web site https://rogerjdeangelis/github.io and serve up 'html, javascript, jekyll and css'.
-Thier are alot of jvascript libraries.
-
-
 This is a port of
    https://github.com/RamiKrispin/shinylive-r
 
