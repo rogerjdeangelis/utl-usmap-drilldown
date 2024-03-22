@@ -127,7 +127,7 @@
 
       https://github.com/rogerjdeangelis/utl-usmap-drilldown/blob/main/overlib_exclusive.zip
 
-     And replace the docs folder with the files you unzipped/
+     And replace the docs folder with the files you unzipped
 
 
 
