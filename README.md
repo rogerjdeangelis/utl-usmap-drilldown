@@ -131,13 +131,13 @@
 
 
 
-/*___                 _ _  __     _           _
-|  _ \ __ _ _ __ ___ (_) |/ /_ __(_)___ _ __ (_)_ __
-| |_) / _` | `_ ` _ \| | ` /| `__| / __| `_ \| | `_ \
-|  _ < (_| | | | | | | | . \| |  | \__ \ |_) | | | | |
-|_| \_\__,_|_| |_| |_|_|_|\_\_|  |_|___/ .__/|_|_| |_|
+     /*___                 _ _  __     _           _
+     |  _ \ __ _ _ __ ___ (_) |/ /_ __(_)___ _ __ (_)_ __
+     | |_) / _` | `_ ` _ \| | ` /| `__| / __| `_ \| | `_ \
+     |  _ < (_| | | | | | | | . \| |  | \__ \ |_) | | | | |
+     |_| \_\__,_|_| |_| |_|_|_|\_\_|  |_|___/ .__/|_|_| |_|
                                        |_|
-*/
+     */
 This repo provides a step-by-step guide for deploying an R Shinylive app to Github Pages. This tutorial is also available on [Medium](https://medium.com/@rami.krispin/deploy-shiny-app-on-github-pages-b4cbd433bdc).
 
 For deploying a Python Shinylive app to Github Actions check this [tutorial](https://github.com/RamiKrispin/shinylive).
